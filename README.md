@@ -1,14 +1,14 @@
 # 👋 Hi, I'm **Akshat Jain**
 
-**AI Engineer | Data Scientist | RAG & Multimodal ML Builder**
+**AI Engineer | Data Scientist**
 *Building scalable AI systems, retrieval engines, and intelligent data products.*
 
 ---
 
 ## 🚀 About Me
 
-I'm a Mechanical Engineering undergraduate at **IIT Roorkee** with strong hands-on experience in **applied machine learning, RAG systems, multimodal deep learning, and data science research**.
-I've worked with **EY** and **Airtel Digital** on real-world ML problems and ranked **AIR 26 / 8000+ teams in the Amazon ML Challenge**.
+I'm an undergraduate at **IIT Roorkee** with strong hands-on experience in **applied machine learning, RAG systems, multimodal deep learning, and data science research**.
+I've worked with **EY** and **Airtel Digital** on real-world ML problems, collaborated with Bosch India in a research project and ranked **AIR 26 / 8000+ teams in the Amazon ML Challenge**.
 
 I love building **low-latency retrieval pipelines, production-grade FastAPI services, and deep learning systems that actually ship.**
 
@@ -19,7 +19,6 @@ I love building **low-latency retrieval pipelines, production-grade FastAPI serv
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)
 🔗 [https://linkedin.com/in/akshat-jain-31b5b22b9/](https://linkedin.com/in/akshat-jain-31b5b22b9/)
 📧 [akshat2510jain@gmail.com](mailto:akshat2510jain@gmail.com)
-💻 GitHub: *add your repo link here*
 
 ---
 
@@ -49,7 +48,7 @@ I love building **low-latency retrieval pipelines, production-grade FastAPI serv
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn)
 
 **Domains:**
-RAG Systems • Multimodal Learning • Signal Processing • Time-Series Forecasting • Deep Learning
+RAG Systems • Multimodal Learning • Signal Processing • Deep Learning
 
 ---
 
@@ -65,14 +64,7 @@ RAG Systems • Multimodal Learning • Signal Processing • Time-Series Foreca
 
 ### **EY – Summer Intern (Gurgaon)**
 
-* Built ML pipelines across regression, clustering, forecasting & time-series
-* Optimized XGBoost, Random Forest, ARIMA, SARIMAX models
-* Performed feature engineering, IV selection & EDA
-
 ### **Airtel Digital – Data Science Intern (Gurgaon)**
-
-* Compared LangChain, AutoGen & CrewAI agentic frameworks
-* Evaluated RAG pipelines for customer service automation
 
 ---
 
@@ -95,7 +87,7 @@ RAG Systems • Multimodal Learning • Signal Processing • Time-Series Foreca
 
 * Built CLIP multimodal model (text+image)
 * Redesigned to NeoBERT ensemble → **SMAPE improved 55.99 → 41.64**
-  🔗 *Add GitHub Repo*
+  🔗 (https://github.com/akshatj536/Amazon-ML-Challenge-Solution)
 
 ---
 
@@ -105,23 +97,8 @@ RAG Systems • Multimodal Learning • Signal Processing • Time-Series Foreca
 
 * Built vibration → spectrogram → CNN pipelines
 * Achieved **96% test accuracy** on CWRU dataset
-  🔗 *Add GitHub Repo*
+  🔗 (https://github.com/akshatj536/machine-fault-diagnosis)
+
 
 ---
 
-## 📊 GitHub Stats
-
-![Akshat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=radical)
-
----
-
-## ✨ Fun
-
-* Obsessed with building **low-latency AI systems**
-* Loves deep learning research & optimization tricks
-* Always exploring RAG, multimodal AI & agents
-
----
-
-### ⭐ If you like my work, consider starring some repos!
