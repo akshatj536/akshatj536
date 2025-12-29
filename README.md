@@ -1,7 +1,3 @@
-Below is your **complete GitHub Profile `README.md`**, fully tailored to you using your verified resume data 
-
----
-
 # 👋 Hi, I'm **Akshat Jain**
 
 **AI Engineer | Data Scientist | RAG & Multimodal ML Builder**
