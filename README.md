@@ -10,14 +10,14 @@
 I'm an undergraduate at **IIT Roorkee** with strong hands-on experience in **applied machine learning, RAG systems, multimodal deep learning, and data science research**.
 I've worked with **EY** and **Airtel Digital** on real-world ML problems, collaborated with Bosch India in a research project and ranked **AIR 26 / 8000+ teams in the Amazon ML Challenge**.
 
-I love building **low-latency retrieval pipelines, production-grade FastAPI services, and deep learning systems that actually ship.**
+I’m passionate about building intelligent systems that connect AI and deep learning with real-world applications.
 
 ---
 
 ## 🌐 Social & Contact
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&logoColor=white)
-🔗 [https://linkedin.com/in/akshat-jain-31b5b22b9/](https://linkedin.com/in/akshat-jain-31b5b22b9/)
+ [https://linkedin.com/in/akshat-jain-31b5b22b9/](https://linkedin.com/in/akshat-jain-31b5b22b9/)
 📧 [akshat2510jain@gmail.com](mailto:akshat2510jain@gmail.com)
 
 ---
@@ -48,7 +48,7 @@ I love building **low-latency retrieval pipelines, production-grade FastAPI serv
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn)
 
 **Domains:**
-RAG Systems • Multimodal Learning • Signal Processing • Deep Learning
+RAG Systems • Machine Learning • Signal Processing • Deep Learning
 
 ---
 
@@ -66,6 +66,7 @@ RAG Systems • Multimodal Learning • Signal Processing • Deep Learning
 
 ### **Airtel Digital – Data Science Intern (Gurgaon)**
 
+### **CANDLE Research Lab – Undergraduate Researcher (IIT Roorkee)**
 ---
 
 ## 📌 Featured Projects
@@ -77,7 +78,6 @@ RAG Systems • Multimodal Learning • Signal Processing • Deep Learning
 * Metadata-aware structure chunking + small-to-large context expansion
 * Hybrid retrieval: BM25 + Vector Search
 * Evaluated with RAGAS to reduce hallucinations
-  🔗 *Add GitHub Repo*
 
 ---
 
