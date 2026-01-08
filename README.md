@@ -55,8 +55,6 @@ RAG Systems • Machine Learning • Signal Processing • Deep Learning
 ## 🏆 Achievements
 
 * 🥇 **AIR 26 / 8000+ teams — Amazon ML Challenge**
-* 🏅 **AIR 3598 — JEE Advanced 2023**
-* 🏅 **AIR 1329 — JEE Main 2023**
 
 ---
 
