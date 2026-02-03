@@ -1,11 +1,11 @@
-# 👋 Hi, I'm **Akshat Jain**
+# Hi, I'm **Akshat Jain**
 
 **AI Engineer | Data Scientist**
 *Building scalable AI systems, retrieval engines, and intelligent data products.*
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm an undergraduate at **IIT Roorkee** with strong hands-on experience in **applied machine learning, RAG systems, multimodal deep learning, and data science research**.
 I've worked with **EY** and **Airtel Digital** on real-world ML problems, collaborated with Bosch India in a research project and ranked **AIR 26 / 8000+ teams in the Amazon ML Challenge**.
