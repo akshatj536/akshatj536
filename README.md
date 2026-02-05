@@ -69,16 +69,6 @@ RAG Systems • Machine Learning • Signal Processing • Deep Learning
 
 ## 📌 Featured Projects
 
-### 🧠 **Enterprise Copilot RAG**
-
-**Python | FastAPI | Docker | FAISS | RAGAS**
-
-* Metadata-aware structure chunking + small-to-large context expansion
-* Hybrid retrieval: BM25 + Vector Search
-* Evaluated with RAGAS to reduce hallucinations
-
----
-
 ### 🖼️ **Multimodal Product Price Prediction**
 
 **CLIP | BERT | PyTorch | HuggingFace**
