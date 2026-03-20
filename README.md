@@ -77,15 +77,6 @@ RAG Systems • Machine Learning • Signal Processing • Deep Learning
 * Redesigned to NeoBERT ensemble → **SMAPE improved 55.99 → 41.64**
   🔗 (https://github.com/akshatj536/Amazon-ML-Challenge-Solution)
 
----
-
-### ⚙️ **Bearing Fault Classification**
-
-**CNNs | Diffusion Models | TensorFlow**
-
-* Built vibration → spectrogram → CNN pipelines
-* Achieved **96% test accuracy** on CWRU dataset
-  🔗 (https://github.com/akshatj536/machine-fault-diagnosis)
 
 
 ---
