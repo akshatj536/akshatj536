@@ -15,7 +15,7 @@ I’m passionate about building intelligent systems that connect AI and deep lea
 
 ## 🏆 Achievements
 
-* 🥇 **AIR 26 — Amazon ML Challenge**
+* 🥇 **AIR 26 — Amazon ML Challenge (2025)**
 
 ---
 
